@@ -33,24 +33,13 @@ const Disconnected = () => {
 	return (
 		<Container>
 			<VStack spacing={20}>
-				<Heading
-					color="white"
-					as="h1"
-					size="3xl"
-					noOfLines={2}
-					textAlign="center"
-				>
+				<Heading textAlign="center">
 					Mint your buildoor. Earn $BLD. Level up.
 				</Heading>
-				<Button
-					bgColor="accent"
-					color="white"
-					maxW="380px"
-					onClick={handleClick}
-				>
+				<Button variant="solana" size="lg" onClick={handleClick}>
 					<HStack>
-						<Text color="white">become a buildoor</Text>
-						<ArrowForwardIcon color="white" />
+						<Text>become a buildoor</Text>
+						<ArrowForwardIcon />
 					</HStack>
 				</Button>
 			</VStack>

@@ -1,0 +1,17 @@
+{
+  "program": {
+    "candyMachine": "Br8hpNQfGu3D7nvsXHWt9G2w9Wd3DggW3Sw7yVv3Mwsr",
+    "candyMachineCreator": "3DoLwv1sXfAjiWC1nH2DqRGEnbZDX1SqKYwAq6ifExYA",
+    "collectionMint": ""
+  },
+  "items": {
+    "0": {
+      "name": "BaryCapa",
+      "image_hash": "e0e55650700bccac19be72c6cd97652d0fb427c2cf48af219dfaf9ba061380f6",
+      "image_link": "https://arweave.net/Ocx8fmpklHrOs8iBTjnwDCL8cpP05zyL9-2AhXeRoFc?ext=png",
+      "metadata_hash": "84ff967ba31712a224a4a6ffda2bf58b36bc392d6a82f09d3f30b6cd9393fe82",
+      "metadata_link": "https://arweave.net/4HIVWtsmpgIwrsDnLjp_4E2NgtnU8UIlkaxYjBlO-k0",
+      "onChain": true
+    }
+  }
+}
